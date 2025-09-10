@@ -32,7 +32,7 @@ Just **two commands**, and you’re ready for Warp’s 3-D CTF estimation, subto
 | 1    | `aretomo_batch.py`           | `*.st` + `*.rawtlt` | `aretomo_align/` + logs + JSON report | Run AreTomo2 across GPUs/CPUs                    |
 | 2    | `aretomo_export_for_warp.py` | `aretomo_align/`    | clean, Warp-ready tree                | Delete temps, rename IMOD files, organise neatly |
 
-**Resulting structure:**
+**Example resulting structure:**
 
 ```
 aretomo_align/
