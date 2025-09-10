@@ -1,7 +1,3 @@
-Here’s a polished version of your README — clearer English, smoother flow, and more visual consistency while keeping the technical depth:
-
----
-
 # 🎯 AreTomo Batch Processing Pipeline
 
 A **lightweight**, **high-throughput** toolchain for automated tilt-series alignment.
